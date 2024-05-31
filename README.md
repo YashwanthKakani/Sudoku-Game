@@ -82,23 +82,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 Enjoy playing Sudoku King!
 ```
-
-### Explanation
-
-1. **Features**: Lists the main features of the game.
-2. **Installation**: Provides step-by-step instructions for setting up the project locally.
-    - **Clone the repository**: Instructions on how to clone the repository from GitHub and navigate into the project directory.
-    - **Install the required dependencies**: How to install dependencies using `pip`.
-    - **Ensure Pygame is installed**: How to install Pygame.
-3. **Usage**: 
-    - **Run the game**: Command to start the game.
-    - **Select the difficulty level**: Instructions on how to select the difficulty level.
-    - **Input numbers**: How to select a cell and input numbers.
-    - **Check board state**: How to check if the board state matches the solution.
-    - **Auto-solve**: How to auto-solve the puzzle.
-4. **Game Controls**: Lists the controls for interacting with the game.
-5. **Code Structure**: Brief explanation of the main scripts in the project.
-6. **Contributing**: Guidelines for contributing to the project.
-7. **Acknowledgements**: Credits to contributors and inspirations.
-
-Make sure to replace the placeholder links for images with the correct URLs from your GitHub repository once you upload the images. Save this content as `README.md` in your project's root directory.
