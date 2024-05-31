@@ -1,3 +1,4 @@
+Sure, here is the corrected README file with appropriate bash commands and explanations:
 
 ```markdown
 # Sudoku King
@@ -16,8 +17,8 @@ Sudoku King is an interactive Sudoku puzzle game implemented using Pygame. The g
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YashwanthKakani/Sudoku-Game
-   cd sudoku-king
+   git clone https://github.com/YashwanthKakani/Sudoku-Game.git
+   cd Sudoku-Game
    ```
 
 2. Install the required dependencies:
@@ -52,8 +53,8 @@ Sudoku King is an interactive Sudoku puzzle game implemented using Pygame. The g
 4. Press `Enter` to check if the current board state matches the solution.
 
 5. Press `C` to auto-solve the entire puzzle.
-![image](https://github.com/YashwanthKakani/Sudoku-Game/assets/146508049/6a947d33-589f-4735-9698-83ffa1e56289)
 
+    ![image](https://github.com/YashwanthKakani/Sudoku-Game/assets/146508049/6a947d33-589f-4735-9698-83ffa1e56289)
 
 ## Game Controls
 
@@ -80,7 +81,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ---
 
 Enjoy playing Sudoku King!
-
-
-
-
+```
